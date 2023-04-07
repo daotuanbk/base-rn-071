@@ -1,0 +1,7 @@
+{
+  "pleaseInputEmail": "Please input email",
+  "pleaseInputPassword": "Please input password",
+  "invalidEmail": "Invalid email format",
+  "loginFailedTitle": "Email or Password is invalid",
+  "loginFailedDescription": "Please Check again."
+}
